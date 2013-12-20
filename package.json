@@ -1,0 +1,32 @@
+{
+  "author": "Shane Tomlinson <shane@shanetomlinson.com> (https://shanetomlinson.com)",
+  "name": "connect-fonts-droidsansmono",
+  "description": "Droid Sans Mono font pack for connect-fonts",
+  "keywords": ["font", "font-face", "CSS", "connect-fonts", "droidsansmono"],
+  "homepage": "https://github.com/shane-tomlinson/connect-fonts-droidsansmono",
+  "licenses": [
+    {
+      "covers": "software",
+      "type": "MPL-2.0",
+      "url": "http://mozilla.org/MPL/2.0/"
+    },
+    {
+      "covers": "fonts",
+      "type": "Apache-2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shane-tomlinson/connect-fonts-droidsansmono.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shane-tomlinson/connect-fonts-droidsansmono/issues"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "node": ">= 0.4.7"
+  },
+  "main": "index"
+}
+
